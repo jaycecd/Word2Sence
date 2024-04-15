@@ -62,14 +62,14 @@ You can download our pretrained models for a quick look.
 ![](images/Heatmap.jpg)
 
 
-### 5.Paper
+### 5.Paper <a name="paper"></a>
 **[Word2Scene: Efficient remote sensing scene generation with only one word via hybrid intelligence and low-rank representation](https://arxiv.org)**
 
 Please cite the following paper if you find it useful for your research:
 
 
-### 6.Acknowledgement
+### 6.Acknowledgement <a name="acknowledgement"></a>
 
 
-### 7.License
+### 7.License <a name="license"></a>
 This repo is distributed under [MIT License](https://github.com/jaycecd/Word2Sence/blob/main/LICENSE). The code can be used for academic purposes only.

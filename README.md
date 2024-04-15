@@ -8,7 +8,8 @@ This is the official PyTorch implementation of the paper **[Word2Scene: Efficien
 - GUI
 
 - Preview of the generation process
-![](images/dense-residential.mp4)
+  
+  https://github.com/jaycecd/Word2Sence/assets/33342388/3df4c9ad-17cd-4db9-830e-7f476a8be30b
 
 Note: The codes and pre-trained models will be released upon acceptance of the paper.
 

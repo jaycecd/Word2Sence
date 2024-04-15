@@ -38,16 +38,16 @@ $ python train.py --data_dir /Path/To/DATASET/
 ```
 
 ### 3.RS Scene Image Generation <a name="gen"></a>
-- Word2Scene: Visualization of remote sensing scenes generated from text descriptions in the test set using different text-to-image generation methods. Zoom-in for better details.
+- **Word2Scene:** Visualization of remote sensing scenes generated from text descriptions in the test set using different text-to-image generation methods. Zoom-in for better details.
 ![](images/Word2Scene.jpg)
 
-- Word2Scene-C: Directly generate scenes using scene concepts from the training set. The real image is randomly selected from the images in the corresponding scene concept. Zoom-in for better details.
+- **Word2Scene-C:** Directly generate scenes using scene concepts from the training set. The real image is randomly selected from the images in the corresponding scene concept. Zoom-in for better details.
 ![](images/Word2Scene-C.jpg)
 
-- Word2Scene Zero-shot: Directly generate scenes using scene concepts outside the training set (zero-shot). Zoom-in for better details.
+- **Word2Scene Zero-shot:** Directly generate scenes using scene concepts outside the training set (zero-shot). Zoom-in for better details.
 ![](images/Word2Scene-zero-shot.jpg)
 
-- Diversity and stability: These samples were all randomly generated 9 times using the same description on different methods. 
+- **Diversity and stability:** These samples were all randomly generated 9 times using the same description on different methods. 
 ![](images/Diversity-and-stability.jpg)
 
 - Comparison of the models obtained at different epochs with the results generated at different lora strengths. 
@@ -58,7 +58,9 @@ You can download our pretrained models for a quick look.
   - Word2Scene: [Google Drive](https://drive.google.com) or [Baidu NetDisk](https://pan.baidu.com)
 
 ### 4.Interpretability of Word2Scene <a name="interpretability"></a>
-- Word2Scene: Visualization of remote sensing scenes generated from text descriptions in the test set using different text-to-image generation methods. Zoom-in for better details.
+- **How does textual input specifically influence the outcome of scene generation?**
+
+    Using heatmaps to explain how text influences scene generation.
 ![](images/Heatmap.jpg)
 
 

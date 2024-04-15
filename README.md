@@ -5,9 +5,13 @@
     
 This is the official PyTorch implementation of the paper **[Word2Scene: Efficient remote sensing scene generation with only one word via hybrid intelligence and low-rank representation](https://arxiv.org)**.
 
-- GUI
+GUI
 
-- Preview of the generation process
+ https://github.com/jaycecd/Word2Sence/assets/33342388/b6e17e54-311c-4f65-b7bd-f8cfee248e68
+
+
+
+Preview of the generation process
   
   https://github.com/jaycecd/Word2Sence/assets/33342388/3df4c9ad-17cd-4db9-830e-7f476a8be30b
 

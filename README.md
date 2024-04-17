@@ -3,7 +3,7 @@
 
 ![](images/Flowchart.jpg)
     
-This is the official PyTorch implementation of the paper **[Word2Scene: Efficient remote sensing scene generation with only one word via hybrid intelligence and low-rank representation](https://arxiv.org)**.
+This is the official PyTorch implementation of the paper **[Word2Scene: Efficient remote sensing scene generation with only one word via hybrid intelligence and low-rank representation]()**.
 
 GUI
 
@@ -55,7 +55,7 @@ $ python train.py --data_dir /Path/To/DATASET/
 
 
 You can download our pretrained models for a quick look.
-  - Word2Scene: [Google Drive](https://drive.google.com) or [Baidu NetDisk](https://pan.baidu.com)
+  - Word2Scene: [Google Drive]() or [Baidu NetDisk]()
 
 ### 4.Interpretability of Word2Scene <a name="interpretability"></a>
 - **How does textual input specifically influence the outcome of scene generation?**
@@ -65,13 +65,19 @@ You can download our pretrained models for a quick look.
 
 
 ### 5.Paper <a name="paper"></a>
-**[Word2Scene: Efficient remote sensing scene generation with only one word via hybrid intelligence and low-rank representation](https://arxiv.org)**
+**[Word2Scene: Efficient remote sensing scene generation with only one word via hybrid intelligence and low-rank representation]()**
 
 Please cite the following paper if you find it useful for your research:
-
+```
+@article{txt2img_mhn,
+  title={Word2Scene: Efficient remote sensing scene generation with only one word via hybrid intelligence and low-rank representation},
+  author={Jiaxin Ren, Wanzeng Liu, Jun Chen, Shunxi Yin, and Yuan Tao},
+  year={2024}
+}
+```
 
 ### 6.Acknowledgement <a name="acknowledgement"></a>
 
 
 ### 7.License <a name="license"></a>
-This repo is distributed under [MIT License](https://github.com/jaycecd/Word2Sence/blob/main/LICENSE). The code can be used for academic purposes only.
+This repo is distributed under [MIT License](). The code can be used for academic purposes only.
